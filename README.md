@@ -5,6 +5,8 @@
 ##### 五级标题
 ###### 六级标题
 
+  Glist 网页顶部的Glisten可以用下面的语法来写blog，而且还是私有的
+
   这是一段普通文本
   换行？
   直接回车不能换行， <br>
@@ -40,3 +42,23 @@
 
 </br>
 ![](http://www.baidu.com/img/bdlogo.gif)  插入图片咯
+</br> 显示项目下的图片
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+
+</br>给图片加上超链接
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
+
+```java
+public static void getId(){}
+```
+
+```c
+int main(int argc,String s){}
+```
+```javascript
+document.getElementById("myH1").inertHTML="Welcome to my Homepage";
+```
+
+注意标点符号的对称
+
